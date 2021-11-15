@@ -1,38 +1,38 @@
-let allMusic=[
-    {
-        name:"Relation",
-        artist:"Nikk",
-        img:"Tere_mere",
-        src:"Relation"
-    },
-    {
-        name:"Shoot da order",
-        artist:"Jass Manak, Jagpal Sandhu",
-        img:"shoot_da_order",
-        src:"Shoot da order"
-    },
-    {
-        name:"Raataan Lambiyan",
-        artist:"Jubin Nautiyal, Tanishk Bagchi",
-        img:"Raataan Lambiyan",
-        src:"Raataan Lambiyan"
-    },
-    {
-        name:"Mera Mann Kehne Laga",
-        artist:"Falak Shabir",
-        img:"Mera Mann Kehne Laga",
-        src:"Mera Mann Kehne Laga"
-    },
-    {
-        name:"Yaari",
-        artist:"Nikk",
-        img:"Yaari",
-        src:"Yaari"
-    },
-    {
-        name:"Tenu Na Bol Pawaan",
-        artist:"Jyotica Tangri, Yasser Desai",
-        img:"Tenu Na Bol Pawaan",
-        src:"Tenu Na Bol Pawaan"
-    }
-]
+let allMusic = [
+  {
+    name: "Relation",
+    artist: "Nikk",
+    img: "music-1",
+    src: "music-1"
+  },
+  {
+    name: "Shoot Da Order",
+    artist: "Jagpal Sandhu, Jass Manak",
+    img: "music-2",
+    src: "music-2"
+  },
+  {
+    name: "Raataan Lambiyan",
+    artist: "Jubin Nautiyal, Asees Kaur",
+    img: "music-3",
+    src: "music-3"
+  },
+  {
+    name: "Mera Mann Kehne Laga",
+    artist: "Falak Shabir",
+    img: "music-4",
+    src: "music-4"
+  },
+  {
+    name: "Yaari",
+    artist: "Nikk",
+    img: "music-5",
+    src: "music-5"
+  },
+  {
+    name: "Tenu Na Bol Pawaan",
+    artist: "Jyotica Tangri, Yasser Desai",
+    img: "music-6",
+    src: "music-6"
+  }
+];
